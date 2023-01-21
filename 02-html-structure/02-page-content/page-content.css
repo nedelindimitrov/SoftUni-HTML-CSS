@@ -1,0 +1,25 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background-color: #CCCCCC;
+}
+
+#inner {
+    font-size: 28px;
+}
+
+#outer {
+    font-size: 24px;
+}
+
+#inner2 {
+    font-size: 28px;
+}
+
+#outer2 {
+    font-size: 24px;
+}
+
+section {
+    margin-left: 20px;
+}
